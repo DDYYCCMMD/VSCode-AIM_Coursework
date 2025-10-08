@@ -95,7 +95,6 @@ class Grid():
         # TODO: Question 5b
 
 
-
 class AdvancedGrid(Grid):
     def __init__(self, width: int, height: int, enemy_pos: tuple):
         super().__init__(width, height, enemy_pos)
